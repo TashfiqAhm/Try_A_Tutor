@@ -1,5 +1,5 @@
 # Try_A_Tutor
-=============
+
  
 The app was developed with android studio. The main goal of the app was to build a bridge between the parents
 and tutors and lessen the communication gap between them.
